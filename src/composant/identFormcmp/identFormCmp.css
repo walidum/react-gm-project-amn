@@ -1,0 +1,11 @@
+.ident_container {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form_ident {
+    height: 100px;
+    width: 100px;
+}
